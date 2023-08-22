@@ -54,7 +54,7 @@ io.on('connection', (socket) => {
     })
 })
 
-server.listen(4001, () => {
+server.listen(8117, () => {
     console.log('Ura, Server is runing!')
 })
 
