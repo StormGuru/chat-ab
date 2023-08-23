@@ -20,7 +20,7 @@
          return{
          messages: [],
              message: '',
-             socket:  window.io(':8117')
+             socket:  window.io(':5008')
          }
      },
      mounted(){
